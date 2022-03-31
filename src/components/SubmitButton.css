@@ -1,0 +1,14 @@
+.form-submit-button {
+    background: linear-gradient(#ff7b5c, #ff6c81);
+    border-radius: 10px;
+    border-width: 0px;
+    max-width: 20%;
+    align-self: flex-end;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    /* text-align: left; */
+}
